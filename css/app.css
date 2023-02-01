@@ -1,0 +1,31 @@
+body {
+    background-color: palevioletred;
+}
+
+h1 {
+    text-align: center;
+    color:  whitesmoke;
+}
+a {color:  whitesmoke;
+text-decoration: none;
+text-align: center;}
+p { color:  whitesmoke;
+text-align: center;
+display: block;
+margin-block-start: 1em;
+margin-block-end: 1em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;}
+
+img {max-width: 500px;}
+
+footer a {
+    text-align: center;
+    margin: 0 10px;
+    color:  whitesmoke;
+    display: block;
+margin-block-start: 1em;
+margin-block-end: 1em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+}
